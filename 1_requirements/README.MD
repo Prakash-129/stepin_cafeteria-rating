@@ -11,3 +11,5 @@ Header Files Required:
 ● <stdlib.h> (Standard library header) : Perform standard utility functions.
 
 ● <stdarg.h>  is a header in the C standard library of the C programming language that allows functions to accept an indefinite number of arguments.
+
+BY THIS WE CAN ASLO BE PERFOMED IN MULTI TASKS.
