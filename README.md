@@ -7,7 +7,4 @@ It helps others to know about the thing either service/product is good or bad.
 
 While giving ratings, it is highly recommended to give your real opinion because if you write bad reviews without knowing that will affect others. 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ed4a5b0065164e02afe5170f02351cf4)](https://app.codacy.com/gh/stepin_prakash-129/CafeteriaRatingSystem?utm_source=github.com&utm_medium=referral&utm_content=stepin_prakash-129/CafeteriaRatingSystem&utm_campaign=Badge_Grade)
-
-![cppcheck-action](https://github.com/stepin_prakash-129/CafeteriaRatingSystem/workflows/cppcheck-action/badge.svg)
-
+[![cppcheck-action](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/cppcheck.yml)
