@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = CafeteriaRating
+PROJECT_NAME = Cafeteria-rating
 
 # Output directory
 BUILD = build
