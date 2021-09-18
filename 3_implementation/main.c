@@ -4,6 +4,6 @@
 #include "test_cafeteria.h"
 int main()
 {
-    test_main();
-    return 0;
+   test_main();
+   return 0;
 }
