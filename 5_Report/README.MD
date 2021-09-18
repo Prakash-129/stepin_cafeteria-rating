@@ -239,7 +239,7 @@ The Cafeteria rating is 4.5
 
 Note:When the student enters the rating other than between 1 to 10 then it acknowledges as
  
-     Please enter the cafeteria rating between 1 to 10:
+     Please enter the cafeteria rating between 1 to 10:-
 
 
 # Expected Results:
