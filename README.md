@@ -12,3 +12,5 @@ While giving ratings, it is highly recommended to give your real opinion because
 [![Cppcheck-actions](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml)
 
 [![CI](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml)
+
+[![Valgrind](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Valgrind.yml)
