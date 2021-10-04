@@ -1,5 +1,4 @@
 name: Valgrind
-
 on:
   push:
     branches: [ master ]
@@ -20,4 +19,4 @@ jobs:
     - name: make test
       run: |
         make test-C 3_implementation
-        valgrind./3_implementation/build/Test_Cafeteria-rating.out
+        valgrind./3_implementation/build/stepin_cafteria-rating
