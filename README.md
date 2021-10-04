@@ -1,4 +1,4 @@
-CAFETERAI RATING SYSTEM
+# CAFETERAI RATING SYSTEM
 
 It gives the rating of all ratings.
 Rating is the common term where we come across daily. It is an evolution of the quality of something on a given scale from 1 to 10 or 1 to 5.
