@@ -7,7 +7,9 @@ It helps others to know about the thing either service/product is good or bad.
 
 While giving ratings, it is highly recommended to give your real opinion because if you write bad reviews without knowing that will affect others. 
 
-[![CI](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml[![Cppcheck-actions](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml)
+[![CI](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml
+
+[![Cppcheck-actions](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/Cppcheck-actions.yml)
 
 [![CI](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml/badge.svg)](https://github.com/Prakash-129/stepin_cafeteria-rating/actions/workflows/CI.yml)
 
